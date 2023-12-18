@@ -1,0 +1,1 @@
+If you aim to run the project in your PC, please make sure you have changed the model(lr.sav) and scaler(sc.sav) path inside the app according to your file location. 
